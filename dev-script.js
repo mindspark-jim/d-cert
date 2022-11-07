@@ -1,1 +1,1 @@
-alert('dev script loaded');
+alert('dev script loaded from github');
