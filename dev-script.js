@@ -1,4 +1,4 @@
-alert('new version of script');
+alert('new version of the script');
 $(document).ready(function(){
 
     var routeDiv = $('.mile-route-details-route').first();
