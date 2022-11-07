@@ -1,4 +1,3 @@
-alert('dev script loaded from github');
 $(document).ready(function(){
 
     var routeDiv = $('.mile-route-details-route').first();
