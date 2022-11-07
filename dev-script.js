@@ -1,4 +1,4 @@
-alert('ANOTHER new version of the script uploaded at 2:50');
+alert('ANOTHER new version of the script uploaded at 3:14');
 $(document).ready(function(){
 
     var routeDiv = $('.mile-route-details-route').first();
